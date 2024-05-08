@@ -1,5 +1,5 @@
 # 👋 Hi, 
-### I’m a recent graduate of the Northwestern University Boot Camp for Data Analytics looking to pursue a career in data analysis. The repositories on this github showcase my completed assignments and challenges from this class. My professional experience demonstrates my commitment to high quality while simultaneously graduating from the Data Analytics exhibits my work ethic and commitment to continuous improvement and learning.  
+### My name is Andrea Colin and I’m a recent graduate of the Northwestern University Boot Camp for Data Analytics looking to pursue a career in data analysis. The repositories on this github showcase my completed assignments and challenges from this class. My professional experience demonstrates my commitment to high quality while simultaneously graduating from the Data Analytics exhibits my work ethic and commitment to continuous improvement and learning.  
 # Bootcamp Summary
 ### This intesive bootcamp has covered topics including:
 Excel, VBA, Us of Visual Studio Code and Jupyter Notebook, Python, APIs, Libraries such as Pandas, Matplotlib, numpy etc., SQL, Flask, SQLAlchemy, Machine Learning and more
